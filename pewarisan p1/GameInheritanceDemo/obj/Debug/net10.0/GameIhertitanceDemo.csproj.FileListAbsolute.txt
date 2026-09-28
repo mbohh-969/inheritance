@@ -1,0 +1,28 @@
+c:\Users\USER\Documents\Sebelasp Pege\Zidana\pgim\pewarisan p1\GameInheritanceDemo\bin\Debug\net10.0\GameIhertitanceDemo.exe
+c:\Users\USER\Documents\Sebelasp Pege\Zidana\pgim\pewarisan p1\GameInheritanceDemo\bin\Debug\net10.0\GameIhertitanceDemo.deps.json
+c:\Users\USER\Documents\Sebelasp Pege\Zidana\pgim\pewarisan p1\GameInheritanceDemo\bin\Debug\net10.0\GameIhertitanceDemo.runtimeconfig.json
+c:\Users\USER\Documents\Sebelasp Pege\Zidana\pgim\pewarisan p1\GameInheritanceDemo\bin\Debug\net10.0\GameIhertitanceDemo.dll
+c:\Users\USER\Documents\Sebelasp Pege\Zidana\pgim\pewarisan p1\GameInheritanceDemo\bin\Debug\net10.0\GameIhertitanceDemo.pdb
+c:\Users\USER\Documents\Sebelasp Pege\Zidana\pgim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\GameIhertitanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Documents\Sebelasp Pege\Zidana\pgim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\GameIhertitanceDemo.AssemblyInfoInputs.cache
+c:\Users\USER\Documents\Sebelasp Pege\Zidana\pgim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\GameIhertitanceDemo.AssemblyInfo.cs
+c:\Users\USER\Documents\Sebelasp Pege\Zidana\pgim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\GameIhertitanceDemo.csproj.CoreCompileInputs.cache
+c:\Users\USER\Documents\Sebelasp Pege\Zidana\pgim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\GameIhertitanceDemo.dll
+c:\Users\USER\Documents\Sebelasp Pege\Zidana\pgim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\refint\GameIhertitanceDemo.dll
+c:\Users\USER\Documents\Sebelasp Pege\Zidana\pgim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\GameIhertitanceDemo.pdb
+c:\Users\USER\Documents\Sebelasp Pege\Zidana\pgim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\GameIhertitanceDemo.genruntimeconfig.cache
+c:\Users\USER\Documents\Sebelasp Pege\Zidana\pgim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\ref\GameIhertitanceDemo.dll
+C:\Users\USER\Documents\Sebelasp Pege\Rizqian Adianza\PGim\pewarisan p1\GameInheritanceDemo\bin\Debug\net10.0\GameIhertitanceDemo.exe
+C:\Users\USER\Documents\Sebelasp Pege\Rizqian Adianza\PGim\pewarisan p1\GameInheritanceDemo\bin\Debug\net10.0\GameIhertitanceDemo.deps.json
+C:\Users\USER\Documents\Sebelasp Pege\Rizqian Adianza\PGim\pewarisan p1\GameInheritanceDemo\bin\Debug\net10.0\GameIhertitanceDemo.runtimeconfig.json
+C:\Users\USER\Documents\Sebelasp Pege\Rizqian Adianza\PGim\pewarisan p1\GameInheritanceDemo\bin\Debug\net10.0\GameIhertitanceDemo.dll
+C:\Users\USER\Documents\Sebelasp Pege\Rizqian Adianza\PGim\pewarisan p1\GameInheritanceDemo\bin\Debug\net10.0\GameIhertitanceDemo.pdb
+C:\Users\USER\Documents\Sebelasp Pege\Rizqian Adianza\PGim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\GameIhertitanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Sebelasp Pege\Rizqian Adianza\PGim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\GameIhertitanceDemo.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Sebelasp Pege\Rizqian Adianza\PGim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\GameIhertitanceDemo.AssemblyInfo.cs
+C:\Users\USER\Documents\Sebelasp Pege\Rizqian Adianza\PGim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\GameIhertitanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Sebelasp Pege\Rizqian Adianza\PGim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\GameIhertitanceDemo.dll
+C:\Users\USER\Documents\Sebelasp Pege\Rizqian Adianza\PGim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\refint\GameIhertitanceDemo.dll
+C:\Users\USER\Documents\Sebelasp Pege\Rizqian Adianza\PGim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\GameIhertitanceDemo.pdb
+C:\Users\USER\Documents\Sebelasp Pege\Rizqian Adianza\PGim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\GameIhertitanceDemo.genruntimeconfig.cache
+C:\Users\USER\Documents\Sebelasp Pege\Rizqian Adianza\PGim\pewarisan p1\GameInheritanceDemo\obj\Debug\net10.0\ref\GameIhertitanceDemo.dll
